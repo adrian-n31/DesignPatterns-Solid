@@ -1,3 +1,5 @@
+package rotten.pizza.service;
+
 public class PizzaConfig {
     public static final String nume_Margherita = "Margherita";
     public static final String nume_Pepperoni = "Pepperoni";
