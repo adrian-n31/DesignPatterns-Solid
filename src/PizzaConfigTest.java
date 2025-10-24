@@ -1,4 +1,6 @@
 import org.junit.jupiter.api.Test;
+import rotten.pizza.service.PizzaConfig;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class PizzaConfigTest {
